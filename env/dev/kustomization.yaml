@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/shaulre/demo-app
-  newTag: 683d20d05e17f5f4028504c25d14465c4883f34c
+  newTag: a627b253775c23c6bc2ac9ec90bf87ec35b0c3cb
